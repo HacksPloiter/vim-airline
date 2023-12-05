@@ -11,26 +11,25 @@ Consider a situation where you are working on a large size project. The number o
 Apart from above, sometimes an organisation follows certain branch naming conventions.
 For example:
 ```individual/username/somefeature/featuredev```
-Vim-Airline++ can trim the branch name to contain the relevant parts without removing the icon. So, above branch name will be shown as:
-```featured```
+<br/>Vim-Airline++ can trim the branch name to contain the relevant parts without removing the icon. So, above branch name will be shown as:
+```featuredev```
 
 # Important
-Don't forget to add the function written in
-https://github.com/HacksPloiter/vim-airline/blob/Branch_Without_Fugitive/.vimrc
-in your vimrc file.
+Don't forget to add the function written [here][1] in your ```.vimrc``` file.
 Or you can use the same vimrc file if you don't have any.
 
-Feel free to fork this repo and modify as per your need,
+Feel free to fork this repo and modify as per your need.
 
 # Shameless Plug
 Consider giving a star to this repo.
 
-Visit my [website][1] here.
+Visit my [website][2] here.
 
-You can follow me on
-[LinkedIn][2]
-[GitHub][3]
+Follow me on
+<br/>[LinkedIn][3]
+<br/>[GitHub][4]
 
-[1]: https://tanweerashif.com
-[2]:https://www.linkedin.com/in/tanweerashif/
-[3]:https://github.com/HacksPloiter
+[1]: https://github.com/HacksPloiter/vim-airline/blob/master/.vimrc
+[2]: https://tanweerashif.com
+[3]:https://www.linkedin.com/in/tanweerashif/
+[4]:https://github.com/HacksPloiter
